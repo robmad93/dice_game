@@ -16,3 +16,9 @@ Simple dice game built using JavaScript. Try it out here: [https://robmad93.gith
 - **Full house:** Three of a kind and a pair - 25 points
 - **Small straight:** Four of the dice have consecutive values - 30 points
 - **Large straight:** All five dice have consecutive values - 40 points
+
+## Screenshot
+![dice_game](https://github.com/user-attachments/assets/66efcb97-296c-4252-bf1e-b751489408b4)
+
+## Acknowledgements
+A special thanks to freecodecamp.org for the project outline.
